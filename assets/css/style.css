@@ -1,1 +1,20 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  margin: 25px auto;
+}
+
+body figure {
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: "Playfair Display", serif;
+}
+
+body figure figcaption {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+body figure p:first-of-type {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=style.css.map */
